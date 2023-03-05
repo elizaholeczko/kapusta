@@ -1,2 +1,2 @@
 # kapusta
-##Projekt realizowany w ramach kursu QA Engineer.
+## Projekt realizowany w ramach kursu QA Engineer.
