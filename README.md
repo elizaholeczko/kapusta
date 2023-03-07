@@ -1,3 +1,3 @@
 # Kapu$
 
-###Project as part of the QA Engineer course.
+### Project as part of the QA Engineer course.
